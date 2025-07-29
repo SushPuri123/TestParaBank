@@ -1,0 +1,14 @@
+{
+  "username": "Susana",
+  "firstName": "Davin",
+  "lastName": "Watsica-Stark",
+  "password": "Bjz9zIbt0_PLVMz",
+  "phoneNumber": "(693) 835-3372",
+  "ssn": "109-61-1971",
+  "address": {
+    "street": "24406 Mount Pleasant",
+    "city": "Oberbrunnerside",
+    "state": "California",
+    "zipCode": "61949-2224"
+  }
+}
